@@ -8,9 +8,22 @@ body {
     letter-spacing: 3px;
 }
 
+.normal {
+    font-family: 'Roboto';
+    color: #FCFDFF;
+}
+
 .underline {
     text-decoration: underline;
     text-decoration-color: #FC5853;
+}
+
+.red {
+    color: #FC5853;
+}
+
+.same-line {
+    display: inline-block;
 }
 
 .btn {
