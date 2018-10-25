@@ -1,1 +1,1 @@
-window.open('docs/NOT_resume.pdf');
+window.open('js/NOT_resume.pdf');

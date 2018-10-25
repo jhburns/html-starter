@@ -1,3 +1,5 @@
+Check out live: https://jhburns.github.io/html-starter/
+
 My colors: https://coolors.co/002349-ff9999-fcfdff-e6e6e8-000000
 My fonts: https://fonts.google.com/specimen/Bitter?selection.family=Bitter|Roboto
 
