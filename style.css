@@ -1,1 +1,27 @@
-/*empty*/
+body {
+    background-color: #002349 !important;
+}
+
+.title {
+    font-family: 'Bitter', serif;
+    color: #FCFDFF;
+    letter-spacing: 3px;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: #FC5853;
+}
+
+.btn {
+    color: #FCFDFF;
+    border-color: #FC5853 !important;
+    border-width: 2px !important;
+    background-color: #002349;
+    outline-offset: 2px;
+}
+
+.btn:hover {
+    color: #FCFDFF;
+    background-color: #FC5853;
+}

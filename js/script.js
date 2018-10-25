@@ -1,0 +1,1 @@
+window.open('/docs/NOT_resume.pdf');
