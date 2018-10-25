@@ -17,4 +17,4 @@ Open it directly in browser from a file manager by double clicking on index.html
 </a>
 
 #### Tip
-The files for the live view are in the gh_pages branch, not master.
+This site can be hosted with Github pages with no setup
